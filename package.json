@@ -1,0 +1,24 @@
+{
+  "dependencies": {},
+  "name": "kams-styleguide",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "devDependencies": {
+    "devbridge-styleguide": "^0.4.17",
+    "live-server": "^1.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cobantou/kams-styleguide.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cobantou/kams-styleguide/issues"
+  },
+  "homepage": "https://github.com/cobantou/kams-styleguide#readme",
+  "description": ""
+}
